@@ -2,9 +2,9 @@
 This program lets you play TicTacToe against an Ai.
 
 ## Installation
-To run the program, copy the raw contain of the main file and paste it in any text editor. Save the file with .py extension and run it in a Python interpreter with Python 3.10 (ideally).
-
+To run the program, download the zip file and open the main.py file in a Python 3.10 interpreter.
 ## Usage
+Run the main.py file. Open the interpreter's console and enjoy!
 To place your "x" on a space, enter the number of the space.
 
 ## Known Bugs
