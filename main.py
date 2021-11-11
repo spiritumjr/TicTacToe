@@ -132,8 +132,8 @@ while True:
     # Ai's Turn
     Board = minimax(Board)[1]
 
-    if is_win(User, Board):
-        print(f"{User} player won!")
+    if is_win(Ai, Board):
+        print(f"{Ai} player won!")
         draw_board(Board)
         break
 
